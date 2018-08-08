@@ -9,7 +9,7 @@ summer_olympics = {
 }
 
 end 
-puts summer_olympics
+# puts summer_olympics
 create_olympics_hash
 
 # def add_a_key_value_pair
