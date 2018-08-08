@@ -35,7 +35,7 @@ def iterate_through_keys
   upcased_cities = []
   summer_olympics = add_a_key_value_pair
   summer_olympics.each do |x,y|
-    upcased_cities << y.upcase
+    upcased_cities << x.upcase
   end
   puts upcased_cities
 end
