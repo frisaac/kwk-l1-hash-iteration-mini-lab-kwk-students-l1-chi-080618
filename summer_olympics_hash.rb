@@ -7,7 +7,7 @@ summer_olympics = {
   :Beijing => "2008",
   :London => "2012"
 }
-# puts summer_olympics
+puts summer_olympics
 # #end
 # #create_olympics_hash
 
