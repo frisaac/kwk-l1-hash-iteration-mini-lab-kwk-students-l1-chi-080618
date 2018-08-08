@@ -7,8 +7,10 @@ summer_olympics = {
   :Beijing => "2008",
   :London => "2012"
 }
+
+end 
 puts summer_olympics
-end
+
 # #create_olympics_hash
 
 # def add_a_key_value_pair
