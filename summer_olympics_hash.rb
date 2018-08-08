@@ -1,5 +1,5 @@
 
-def create_olympics_hash
+#def create_olympics_hash
   # Implement this method so that it returns a hash with the data provided on README.md
   summer_olympics = {
   :Sydney => "2000",
@@ -8,7 +8,7 @@ def create_olympics_hash
   :London => "2012"
   }
   puts summer_olympics
-end
+#end
 create_olympics_hash
 
 def add_a_key_value_pair
